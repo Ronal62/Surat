@@ -25,10 +25,7 @@
                         <a class="nav-link {{ Request::is('users') ? 'active' : '' }}" href="/users">Data Pengguna</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Surat Masuk</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Surat Keluar</a>
+                        <a class="nav-link {{ Request::is('index') ? 'active' : '' }}" href="/surat">Surat</a>
                     </li>
                 </ul>
             </div>

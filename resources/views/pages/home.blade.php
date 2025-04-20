@@ -21,18 +21,9 @@
             <div class="col-md-4 mt-4 mt-md-0">
                 <div class="card shadow-sm">
                     <div class="card-body">
-                        <h5 class="card-title">Surat Masuk</h5>
-                        <p class="card-text">Lihat dan catat surat yang masuk.</p>
-                        <a href="#" class="btn btn-primary">Lihat</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mt-4 mt-md-0">
-                <div class="card shadow-sm">
-                    <div class="card-body">
-                        <h5 class="card-title">Surat Keluar</h5>
+                        <h5 class="card-title">Surat</h5>
                         <p class="card-text">Kelola surat keluar instansi.</p>
-                        <a href="#" class="btn btn-primary">Lihat</a>
+                        <a href="/surat" class="btn btn-primary">Lihat</a>
                     </div>
                 </div>
             </div>
